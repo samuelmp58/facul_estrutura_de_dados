@@ -18,7 +18,7 @@ jobs:
       - name: ⚙️ Compilar e Testar
         run: |
           # Busca pastas que tenham arquivos .cpp
-          for dir in $(find exercicios -maxdepth 1 -type d -not -path 'exercicios'); do
+          for dir in $(find lista0 -maxdepth 1 -type d -not -path 'exercicios'); do
             NAME=$(basename "$dir")
             COMPILE_STATUS="❌"
             TEST_STATUS="➖"
