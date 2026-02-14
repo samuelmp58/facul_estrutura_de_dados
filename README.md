@@ -1,3 +1,4 @@
+
 ### 📚 Lista 0 - Exercícios Iniciais
 
 <details>
