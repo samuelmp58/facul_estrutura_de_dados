@@ -12,9 +12,9 @@ int main() {
     std::cout << "Digite um valor valido: ";
   }
 
-  salario += salario < 1000   ? salario * 0.15
-             : salario < 1500 ? salario * 0.10
-                              : salario * 0.05;
+  salario += salario < 1000    ? salario * 0.15
+             : salario <= 1500 ? salario * 0.10
+                               : salario * 0.05;
 
   std::cout << std::fixed << std::setprecision(2);
   std::cout << "Novo salario: R$ " << salario << std::endl;
