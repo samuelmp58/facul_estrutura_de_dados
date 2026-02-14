@@ -5,19 +5,15 @@
 <details>
 <summary>🧪 Exercício 1: Cálculo de IMC</summary>
 
-[![Testar Online](https://img.shields.io/badge/TESTAR_ONLINE-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/dOmnbxlZQX)
-
-#### 📝 Exemplo de Execução:
-> **Input:** 75 1.75
-> **Output:** Seu IMC é 24.49 (Peso Normal)
-
----
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /> **Código C++:** [main.cpp](./lista0/exercicio1_IMC/main.cpp)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="20" height="20" /> **Código Rust:** [main.rs](./lista0/exercicio1_IMC/main.rs)
 
+---
+
+[![Testar Online](https://img.shields.io/badge/TESTAR_ONLINE-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/dOmnbxlZQX)
 </details>
+
 <details>
 <summary>🧪 Exercício 2: Classificar Nadadores</summary>
 
