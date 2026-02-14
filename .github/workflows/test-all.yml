@@ -7,19 +7,35 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: Compilar e Rodar Exercícios
+    - name: 🧪 Testar Exercícios com Input
       run: |
-        # Procura todos os exercícios em qualquer subpasta
+        echo "=== TESTANDO EXERCÍCIOS ==="
+        # Cria arquivo de input fake pro IMC
+        echo -e "75\n1.75" > input.txt
+        
         for dir in **/*/; do
-          if [[ "$dir" == *"exercicio"* || "$dir" == *"IMC"* ]]; then
-            echo "🧪 Testando $dir"
-            cd "$dir"
-            if [ -f "main.cpp" ] || [ -f "*.cpp" ]; then
-              g++ -std=c++20 *.cpp -o main 2>/dev/null && ./main
-            elif [ -f "CMakeLists.txt" ]; then
-              cmake . && make && ./main 2>/dev/null
-            fi || echo "❌ $dir falhou ou sem main.cpp"
-            cd - > /dev/null
+          echo ""
+          echo "🔍 Procurando em: $dir"
+          
+          cd "$dir" || continue
+          
+          # Se tem qualquer .cpp, compila
+          if ls *.cpp >/dev/null 2>&1; then
+            echo "📦 Compilando $dir..."
+            if g++ -std=c++20 *.cpp -o main 2>/dev/null; then
+              echo "✅ Compilou! Rodando..."
+              if [ -f "input.txt" ]; then
+                ./main < input.txt
+              else
+                ./main
+              fi && echo "🎉 $dir PASSOU!" || echo "❌ $dir FALHOU"
+            else
+              echo "❌ $dir NÃO COMPILOU"
+            fi
+          else
+            echo "⚠️  $dir sem .cpp"
           fi
+          cd - >/dev/null
         done
+        rm -f input.txt
 

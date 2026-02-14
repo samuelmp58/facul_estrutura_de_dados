@@ -32,3 +32,4 @@ int main() {
   std::cout << checkarIMC(peso, altura) << std::endl;
   return 0;
 }
+// test
