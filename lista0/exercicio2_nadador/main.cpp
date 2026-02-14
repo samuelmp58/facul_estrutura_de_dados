@@ -18,7 +18,7 @@ int main() {
         {13, "Juvenil A"},
         {17, "Juvenil B"}
     };
-    std::string categoriaSenior = "Senior";
+    std::string categoriaSenior{"Senior"};
 
     std::cout << "Digite a idade: ";
     while(!(std::cin >> idade)){
@@ -27,7 +27,7 @@ int main() {
         std::cout << "Invalido. Digite a idade: ";
     }
 
-    std::string resultado = categoriaSenior; 
+    std::string resultado{categoriaSenior}; 
     for (const auto& regra : tabela) {
         if (idade <= regra.idadeLimite) {
             resultado = regra.nome;
