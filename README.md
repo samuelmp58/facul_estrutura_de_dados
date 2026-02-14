@@ -1,10 +1,18 @@
-## 🧪 Testar os Exercícios Online
+### 📚 Lista 0 - Exercícios Iniciais
 
-Clique no botão abaixo para abrir o ambiente de desenvolvimento. O compilador C++ já está configurado.
+<details>
+<summary>🧪 Exercício 1: Cálculo de IMC (Clique para expandir)</summary>
 
-[![Abrir no GitHub Codespaces](https://img.shields.io/badge/Codespaces-Abrir_Ambiente-blue?style=for-the-badge&logo=github)](https://github.com/codespaces/new?repo=samuelmp58/facul_estrutura_de_dados)
+#### 💻 Código: [main.cpp](./lista0/exercicio1_imc/main.cpp)
+#### 🚀 Demonstração:
+![GIF do terminal rodando o IMC](link-do-seu-gif-aqui.gif)
 
-**Como rodar:**
-1. Assim que o terminal abrir, digite:
-   ```bash
-   g++ lista0/exercicio1_imc/main.cpp -o imc && ./imc
+#### 📝 Exemplo de Execução:
+> **Input:** 75 1.75
+> **Output:** Seu IMC é 24.49 (Peso Normal)
+</details>
+
+<details>
+<summary>🧪 Exercício 2: Próximo Exercício</summary>
+...
+</details>
