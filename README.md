@@ -1,5 +1,7 @@
 ### 📚 Lista 0 - Exercícios Iniciais
 
+---
+
 <details>
 <summary>🧪 Exercício 1: Cálculo de IMC</summary>
 
@@ -33,12 +35,10 @@
 
 #### 📝 Exemplo de Execução:
 > **Input:** 30 1800
-> **Output:** 
+> **Output:** ```text
 ---------- Demonstrativo ----------
 Valor da hora:    R$ 900.00
 Salario Bruto:    R$ 27000.00
 Imposto (3%):     R$ 810.00
 Salario Liquido:  R$ 26190.00
 -----------------------------------
-
-</details>
