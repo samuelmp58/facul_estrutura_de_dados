@@ -3,7 +3,7 @@
 <details>
 <summary>🧪 Exercício 1: Cálculo de IMC (Clique para expandir)</summary>
 
-#### 💻 Código: [main.cpp](./lista0/exercicio1_imc/main.cpp)
+#### 💻 Código: [main.cpp](./lista0/exercicio1_IMC/main.cpp)
 #### 🚀 Demonstração:
 ![GIF do terminal rodando o IMC](link-do-seu-gif-aqui.gif)
 
