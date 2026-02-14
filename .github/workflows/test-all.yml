@@ -1,41 +1,46 @@
-name: 🧪 Testar Todos Exercícios
+name: 🧪 Laboratório de Exercícios
 on: [push, pull_request]
 
 jobs:
-  test:
+  build-and-test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: 🧪 Testar Exercícios com Input
-      run: |
-        echo "=== TESTANDO EXERCÍCIOS ==="
-        # Cria arquivo de input fake pro IMC
-        echo -e "75\n1.75" > input.txt
-        
-        for dir in **/*/; do
-          echo ""
-          echo "🔍 Procurando em: $dir"
-          
-          cd "$dir" || continue
-          
-          # Se tem qualquer .cpp, compila
-          if ls *.cpp >/dev/null 2>&1; then
-            echo "📦 Compilando $dir..."
-            if g++ -std=c++20 *.cpp -o main 2>/dev/null; then
-              echo "✅ Compilou! Rodando..."
-              if [ -f "input.txt" ]; then
-                ./main < input.txt
-              else
-                ./main
-              fi && echo "🎉 $dir PASSOU!" || echo "❌ $dir FALHOU"
-            else
-              echo "❌ $dir NÃO COMPILOU"
-            fi
-          else
-            echo "⚠️  $dir sem .cpp"
-          fi
-          cd - >/dev/null
-        done
-        rm -f input.txt
+      - uses: actions/checkout@v4
 
+      - name: 🛠️ Preparar Relatório
+        run: |
+          echo "## 📊 Relatório de Correção Automática" >> $GITHUB_STEP_SUMMARY
+          echo "Gerado em: $(date +'%d/%m/%Y %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Exercício | Status | Compilação | Teste de Input |" >> $GITHUB_STEP_SUMMARY
+          echo "| :--- | :---: | :---: | :---: |" >> $GITHUB_STEP_SUMMARY
+
+      - name: ⚙️ Compilar e Testar
+        run: |
+          # Busca pastas que tenham arquivos .cpp
+          for dir in $(find exercicios -maxdepth 1 -type d -not -path 'exercicios'); do
+            NAME=$(basename "$dir")
+            COMPILE_STATUS="❌"
+            TEST_STATUS="➖"
+            ICON="🔴"
+            
+            # Tenta compilar
+            if g++ -std=c++20 "$dir"/*.cpp -o "$dir/main" 2>/dev/null; then
+              COMPILE_STATUS="✅"
+              
+              # Verifica se existe input.txt e roda o teste
+              if [ -f "$dir/input.txt" ]; then
+                if ./"$dir/main" < "$dir/input.txt" > /dev/null; then
+                  TEST_STATUS="✅ Passou"
+                  ICON="🟢"
+                else
+                  TEST_STATUS="❌ Falhou (Runtime)"
+                fi
+              else
+                TEST_STATUS="⚠️ Sem input.txt"
+              fi
+            fi
+            
+            # Escreve a linha na tabela do relatório
+            echo "| $NAME | $ICON | $COMPILE_STATUS | $TEST_STATUS |" >> $GITHUB_STEP_SUMMARY
+          done
