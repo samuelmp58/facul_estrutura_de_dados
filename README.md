@@ -98,6 +98,6 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/0b0715b7-e333-48c3-b1f8-02f185b43a0d" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio10_questionarioCinema/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/D7RW_HpG_)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/GVZ_eOWvZ)
 
 </details>

@@ -6,7 +6,7 @@
 enum Opcao { OTIMO = 1, BOM = 2, REGULAR = 3, RUIM = 4 };
 
 int lerInteiro(std::string mensagem) {
-  int valor;
+  int valor{0};
   while (true) {
     std::cout << mensagem;
     if (std::cin >> valor) {
@@ -21,8 +21,8 @@ int lerInteiro(std::string mensagem) {
 }
 
 int main() {
-  int totalPessoas = 0;
-  double somaIdades = 0;
+  int totalPessoas{0};
+  double somaIdades{0};
   int contadores[5] = {0};
 
   std::cout << "=== PESQUISA DE OPINIAO DO CINEMA ===" << std::endl;
@@ -36,7 +36,7 @@ int main() {
       break;
     }
 
-    int escolha = lerInteiro("Opniao: [1]Otimo, [2]Bom, [3]Regular, [4]Ruim: ");
+    int escolha{lerInteiro("Opniao: [1]Otimo, [2]Bom, [3]Regular, [4]Ruim: ")};
 
     if (escolha >= OTIMO && escolha <= RUIM) {
       totalPessoas++;
@@ -56,9 +56,9 @@ int main() {
               << std::endl;
     std::cout << "C. Porcentagem de cada resposta:" << std::endl;
 
-    std::string textos[] = {"", "Otimo", "Bom", "Regular", "Ruim"};
+    std::string textos[]{"", "Otimo", "Bom", "Regular", "Ruim"};
     for (int i = 1; i <= 4; i++) {
-      double porcentagem = (contadores[i] * 100.0) / totalPessoas;
+      double porcentagem{(contadores[i] * 100.0) / totalPessoas};
       std::cout << "   - " << textos[i] << ": " << porcentagem << "%"
                 << std::endl;
     }
