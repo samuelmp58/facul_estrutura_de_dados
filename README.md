@@ -6,6 +6,7 @@
 <summary>🧪 Exercício 1: Cálculo de IMC</summary>
 
 <br>
+<img width="964" height="286" alt="image" src="https://github.com/user-attachments/assets/d2cc9b5e-620f-4499-af9c-02733f6438b3" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio1_IMC/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/dOmnbxlZQX)
