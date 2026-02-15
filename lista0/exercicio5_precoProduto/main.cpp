@@ -4,6 +4,7 @@
 int main() {
   double precoEtiqueta{0.0};
   int codigoPagamento{0};
+  int numParcelas{1};
 
   std::cout << "Digite o preco do produto: ";
   std::cin >> precoEtiqueta;
@@ -26,9 +27,11 @@ int main() {
     valorFinal -= precoEtiqueta * 0.05;
     break;
   case 3:
+    numParcelas = 2;
     break;
   case 4:
     valorFinal += precoEtiqueta * 0.10;
+    numParcelas = 3;
     break;
   default:
     std::cout << "Codigo invalido! Usando preco normal.\n";
@@ -37,6 +40,11 @@ int main() {
 
   std::cout << std::fixed << std::setprecision(2);
   std::cout << "\nValor final a pagar: R$ " << valorFinal << std::endl;
+
+  if (numParcelas > 1) {
+    std::cout << "Parcelado em " << numParcelas << "x de: R$ "
+              << (valorFinal / numParcelas) << std::endl;
+  }
 
   return 0;
 }
