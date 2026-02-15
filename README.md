@@ -45,7 +45,8 @@
 <details>
 <summary>🧪 Exercício 5: Preço Produto</summary>
 <br>
-
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/8c092107-74c9-468f-adf9-9779a45235a5" />
+  
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio5_precoProduto/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/naaLvaGy5)
 
@@ -54,6 +55,7 @@
 <details>
 <summary>🧪 Exercício 6: Quadrado dos Inteiros</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/09299676-b4dd-485f-9ee5-4554c5ec9c83" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio6_quadradoInteiros/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/x-Q9dq8Fy)
@@ -63,6 +65,7 @@
 <details>
 <summary>🧪 Exercício 7: Múltiplos de 5</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/b141cf71-e3e7-4851-afc4-d61cbb3d68b1" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio7_multiplosDe5/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/lSlnGoIIy)
@@ -72,6 +75,7 @@
 <details>
 <summary>🧪 Exercício 8: Votos Candidatos</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/aa5a747d-70ad-4793-811d-56e4b5d87cad" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio8_votos/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/Y2vlVDMvG)
@@ -81,6 +85,7 @@
 <details>
 <summary>🧪 Exercício 9: Altura Alunos</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/0767a8da-f149-49ff-a897-348370637103" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio9_alunosAltura/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/3otHtYuvx)
@@ -90,6 +95,7 @@
 <details>
 <summary>🧪 Exercício 10: Questionario Cinema</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/0b0715b7-e333-48c3-b1f8-02f185b43a0d" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio10_questionarioCinema/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/D7RW_HpG_)
