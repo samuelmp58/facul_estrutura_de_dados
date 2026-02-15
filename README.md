@@ -51,12 +51,20 @@
 
 </details>
 
-
 <details>
 <summary>🧪 Exercício 6: Quadrado dos Inteiros</summary>
 <br>
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio6_quadradoInteiros/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/x-Q9dq8Fy)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 7: Múltiplos de 5</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio7_multiplosDe5/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/lSlnGoIIy)
 
 </details>
