@@ -85,7 +85,7 @@
 <details>
 <summary>🧪 Exercício 9: Altura Alunos</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/0767a8da-f149-49ff-a897-348370637103" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/3bc4d048-d033-4707-949c-6aaee134d1b7" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio9_alunosAltura/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/3otHtYuvx)
