@@ -68,3 +68,30 @@
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/lSlnGoIIy)
 
 </details>
+
+<details>
+<summary>🧪 Exercício 8: Votos Candidatos</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio8_votos/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/Y2vlVDMvG)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 9: Altura Alunos</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio9_alunosAltura/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/3otHtYuvx)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 10: Questionario Cinema</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio10_questionarioCinema/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/D7RW_HpG_)
+
+</details>
