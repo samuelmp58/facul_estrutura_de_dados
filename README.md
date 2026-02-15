@@ -39,6 +39,7 @@
 <summary>🧪 Exercício 4: Novo Salário Funcionário </summary>
 
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/38d4add8-bc56-4a19-b17c-2a5c9215ff83" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio4_salarioFuncionario/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/9QQuET734)
