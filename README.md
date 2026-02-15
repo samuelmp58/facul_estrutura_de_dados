@@ -16,13 +16,11 @@
 <details>
 <summary>🧪 Exercício 2: Classificar Nadadores</summary>
 
-#### 📝 Exemplo de Execução:
-> **Input:** 17
-> **Output:** Categoria: Juvenil B
+<br>
+<img width="936" height="105" alt="image" src="https://github.com/user-attachments/assets/067d7ea7-9072-45b9-a98a-717ab6d24e3a" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /> Código C++: [main.cpp](./lista0/exercicio2_nadador/main.cpp)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="20" height="20" /> Código Rust: [main.rs](./lista0/exercicio2_nadador/main.rs)
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio2_nadador/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/nrhCD02Ja)
 
 </details>
 
