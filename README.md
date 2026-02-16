@@ -101,3 +101,93 @@
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/GVZ_eOWvZ)
 
 </details>
+
+<details>
+<summary>🧪 Exercício 11: Par ou Ímpar</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio11_parOuImpar/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/hltzwF9EY)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 12: Maior de Três</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio12_maiorDeTres/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/Gv787oELlP)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 13: Aprovado Prova</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio13_aprovadoProva/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/-x9QKTaCRF)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 14: Menu</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio14_menuSwitch/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/2xZYvurDJl)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 15: Loop 1 a 100</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio15_for/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/5kPp8JN-2z)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 16: Somando Números</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio16_somaNumeros/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/R3oJUcvUb7)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 17: Digito em um Intervalo</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio17_intervalo/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/UhwOs83b9d)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 18: Tabuada</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio18_tabuada/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/_tCmcYROp)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 19: Media de notas</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio19_mediaNotas/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/yxgdrmOgu)
+
+</details>
+
+<details>
+<summary>🧪 Exercício 20: Contagem Regressiva</summary>
+<br>
+
+[![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio20_contragemRegressiva/main.cpp)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+
+</details>
