@@ -105,6 +105,7 @@
 <details>
 <summary>🧪 Exercício 11: Par ou Ímpar</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/7a013374-9a87-46b8-a31b-0cc9df15d5a3" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio11_parOuImpar/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/hltzwF9EY)
@@ -114,6 +115,7 @@
 <details>
 <summary>🧪 Exercício 12: Maior de Três</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/d5b2ea3a-22af-47c7-8316-f743511b6a29" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio12_maiorDeTres/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/Gv787oELlP)
@@ -123,6 +125,7 @@
 <details>
 <summary>🧪 Exercício 13: Aprovado Prova</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/ee48bb4a-0fc7-4b35-b33d-0b64b36c6374" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio13_aprovadoProva/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/-x9QKTaCRF)
@@ -132,6 +135,7 @@
 <details>
 <summary>🧪 Exercício 14: Menu</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/d1d6adc5-f321-448f-8b17-f65112f34825" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio14_menuSwitch/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/2xZYvurDJl)
@@ -141,6 +145,7 @@
 <details>
 <summary>🧪 Exercício 15: Loop 1 a 100</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/a849440f-8fcd-45af-aeea-e5dc37517950" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio15_for/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/5kPp8JN-2z)
@@ -150,6 +155,7 @@
 <details>
 <summary>🧪 Exercício 16: Somando Números</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/70af0f43-0144-4b86-be9b-2dda9a73e85c" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio16_somaNumeros/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/R3oJUcvUb7)
@@ -159,6 +165,7 @@
 <details>
 <summary>🧪 Exercício 17: Digito em um Intervalo</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/5a4bcd2d-27f2-4f07-9b19-3c7d29fa1807" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio17_intervalo/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/UhwOs83b9d)
@@ -168,6 +175,7 @@
 <details>
 <summary>🧪 Exercício 18: Tabuada</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/4bf0ac1f-9b87-48df-8564-45b8f13a9386" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio18_tabuada/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/_tCmcYROp)
@@ -177,6 +185,7 @@
 <details>
 <summary>🧪 Exercício 19: Media de notas</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/e9bdcf8d-715e-4e2b-bbb5-c457772949d3" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio19_mediaNotas/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/yxgdrmOgu)
@@ -186,6 +195,7 @@
 <details>
 <summary>🧪 Exercício 20: Contagem Regressiva</summary>
 <br>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/7193618f-8168-4f6d-a575-0bce06885892" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista0/exercicio20_contragemRegressiva/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
