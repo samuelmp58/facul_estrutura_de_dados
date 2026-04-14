@@ -21,4 +21,5 @@ int main() {
 
   std::cout << "Media: " << mediaNotas
             << "\nAlunos Acima da media: " << AlunosAcimaMedia << std::endl;
+  return 0;
 }
