@@ -413,60 +413,54 @@
 <details>
 <summary>🧪 Exercício 1: Plano de Saúde</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
-
+  
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista_revisao/ex1.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/jBMld2T07)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/828qtE1hs)
 
 </details>
 
 <details>
 <summary>🧪 Exercício 2: Triângulos</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
-
+  
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista_revisao/ex2.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/jBMld2T07)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/shVCrR85d)
 
 </details>
 
 <details>
 <summary>🧪 Exercício 3: Sequência Numérica</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista_revisao/ex3.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/jBMld2T07)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/qUyRPna3QY)
 
 </details>
 
 <details>
 <summary>🧪 Exercício 4: Caixa com Controle Inteligente</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista_revisao/ex4.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/jBMld2T07)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/sQHUctQPu)
 
 </details>
 
 <details>
 <summary>🧪 Exercício 5: Analisando e Reorganizando Vetores</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista_revisao/ex5.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/jBMld2T07)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/qLzRMCtD9)
 
 </details>
 
 <details>
 <summary>🧪 Exercício 6: Gestão de Funcionários</summary>
 <br>
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista_revisao/ex6.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/jBMld2T07)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/lcunFsdTb)
 
 </details>
 
