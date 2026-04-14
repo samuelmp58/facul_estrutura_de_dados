@@ -214,8 +214,7 @@
 <details>
 <summary>🧪 Exercício 1: Busca em Vetor (Achei)</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
-
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/cbc156a3-ba57-44fd-8d75-fdc74298d058" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/1-achei/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -225,7 +224,7 @@
 <details>
 <summary>🧪 Exercício 2: Média da Turma</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/02300a11-d723-4c50-bece-2fe99c38392f" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/2-mediaAlunos/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -235,7 +234,7 @@
 <details>
 <summary>🧪 Exercício 3: Multiplicação de Vetor</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/8e14cc9b-e2a3-4d52-8808-a4d97e5c835a" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/3-multiplicacao_vetor/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -245,7 +244,7 @@
 <details>
 <summary>🧪 Exercício 4: Invertendo Vetor</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/b14af034-af84-48a8-8edd-ddbcea4f4305" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/4-invertendo_vetor/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -254,7 +253,7 @@
 <details>
 <summary>🧪 Exercício 5: Soma de Dois Vetores</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/39fae5c2-d88c-4bfe-9119-2854939f82cb" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/5-soma_vetores/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -264,7 +263,7 @@
 <details>
 <summary>🧪 Exercício 6: Controle de Temperatura</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/d0e8bc9d-25fc-475c-baa9-a81c58b78987" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/6-temperatura/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -280,7 +279,7 @@
 <details>
 <summary>🧪 Exercício 1.1: Cadastro Hospital</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/5ee81ba8-3fcd-4d52-bc5b-1671bbd766f5" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/1.1-Hospital/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -290,7 +289,7 @@
 <details>
 <summary>🧪 Exercício 1.2: Sistema de Biblioteca</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/f69b05c0-87d9-460c-aff3-4ce3b4c9d7ee" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/1.2-Biblioteca/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -300,7 +299,7 @@
 <details>
 <summary>🧪 Exercício 1.3: Avaliação de Filmes</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/86888609-d78c-4683-8d28-4a2e8d7d0b0b](https://www.google.com/search?q=https://github.com/user-attachments/assets/86888609-d78c-4683-8d28-4a2e8d7d0b0b)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/71b7e764-8e7c-47c6-a1d7-dc48d21c6579" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/1.3-Filme/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -310,7 +309,7 @@
 <details>
 <summary>🧪 Exercício 1.4: Desempenho de Estudantes</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/005cd9ee-3e13-413e-8dd7-9323bc13d869](https://www.google.com/search?q=https://github.com/user-attachments/assets/005cd9ee-3e13-413e-8dd7-9323bc13d869)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/d5840de6-5773-43c9-b011-5b6608b025df" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/1.4-Estudante/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -320,7 +319,7 @@
 <details>
 <summary>🧪 Exercício 1.5: Pedidos Restaurante</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/957498d9-a379-4d86-baf0-97bd0a20b163](https://www.google.com/search?q=https://github.com/user-attachments/assets/957498d9-a379-4d86-baf0-97bd0a20b163)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/19e4cbe6-0562-4711-9fa0-a02c5432c38a" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/1.5-Restaurante/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -332,7 +331,7 @@
 <details>
 <summary>🧪 Exercício 2.1: Cadastro de Pessoas</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/e6ec625d-6aad-4f54-b5d4-a7602fe18ea](https://www.google.com/search?q=https://github.com/user-attachments/assets/e6ec625d-6aad-4f54-b5d4-a7602fe18ea)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/3a7309c1-1891-459d-aeca-172382a73a1a" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/2.1-Pessoas/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -342,7 +341,7 @@
 <details>
 <summary>🧪 Exercício 2.2: Animais do Zoológico</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/79d5e2e7-8228-499b-a292-6279770ef730](https://www.google.com/search?q=https://github.com/user-attachments/assets/79d5e2e7-8228-499b-a292-6279770ef730)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/78799872-4baf-41a1-b548-9d954efaa79d" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/2.2-Zoologico/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -352,7 +351,7 @@
 <details>
 <summary>🧪 Exercício 2.3: Registro de Endereço</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/d145e282-30b6-4f99-8038-31ff0c4612a8](https://www.google.com/search?q=https://github.com/user-attachments/assets/d145e282-30b6-4f99-8038-31ff0c4612a8)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/d042f6a3-5f7a-4911-bc1d-3756ba7559fe" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/2.3-Endereco/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -362,7 +361,7 @@
 <details>
 <summary>🧪 Exercício 2.4: Vetor de Inteiros</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/LINK\_AQUI](https://www.google.com/search?q=https://github.com/user-attachments/assets/LINK_AQUI)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/23d77f42-aec9-4147-a6e9-e8ea9356c703" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/2.4-VetorInteiros/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -372,7 +371,7 @@
 <details>
 <summary>🧪 Exercício 2.5: Enumeração de Cores</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/4e30e1b6-2a1b-4cb5-bb8c-4632c7092d78](https://www.google.com/search?q=https://github.com/user-attachments/assets/4e30e1b6-2a1b-4cb5-bb8c-4632c7092d78)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/8c3e0747-c4b1-4359-9c16-6e12e31e5151" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista2/2.5-Cores/main.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -386,7 +385,7 @@
 <details>
 <summary>🧪 Exercício 1: BubbleSort Descendente</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/4e30e1b6-2a1b-4cb5-bb8c-4632c7092d78](https://www.google.com/search?q=https://github.com/user-attachments/assets/4e30e1b6-2a1b-4cb5-bb8c-4632c7092d78)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/06a0de20-fa6e-4cc7-80f1-a2b10228d9c9" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista3/bubblesortdesc.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
@@ -400,7 +399,7 @@
 <details>
 <summary>🧪 Exercício 1: Ordenando 10 numeros</summary>
 <br>
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/4e30e1b6-2a1b-4cb5-bb8c-4632c7092d78](https://www.google.com/search?q=https://github.com/user-attachments/assets/4e30e1b6-2a1b-4cb5-bb8c-4632c7092d78)" /\>
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/1f740980-b020-479a-95ed-ac19a2501912" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista4/ordenar.cpp)
 [![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
