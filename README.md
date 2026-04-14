@@ -217,7 +217,7 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/cbc156a3-ba57-44fd-8d75-fdc74298d058" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/1-achei/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/GfupXww6d)
 
 </details>
 
@@ -227,7 +227,7 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/02300a11-d723-4c50-bece-2fe99c38392f" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/2-mediaAlunos/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/d8CNWNeyD)
 
 </details>
 
@@ -237,7 +237,7 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/8e14cc9b-e2a3-4d52-8808-a4d97e5c835a" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/3-multiplicacao_vetor/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)]([https://onlinegdb.com/92gsR4H7eJ](https://www.onlinegdb.com/edit/gktH1D0Tm))
 
 </details>
 
@@ -247,7 +247,7 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/b14af034-af84-48a8-8edd-ddbcea4f4305" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/4-invertendo_vetor/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/y2VEbQiA5V)
 </details>
 
 <details>
@@ -256,7 +256,7 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/39fae5c2-d88c-4bfe-9119-2854939f82cb" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/5-soma_vetores/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/X3zse1dHk)
 
 </details>
 
@@ -266,7 +266,7 @@
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/d0e8bc9d-25fc-475c-baa9-a81c58b78987" />
 
 [![Código Fonte](https://img.shields.io/badge/Código_Fonte-C++-111111?style=for-the-badge&logo=github)](./lista1/6-temperatura/main.cpp)
-[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://onlinegdb.com/92gsR4H7eJ)
+[![Testar Online](https://img.shields.io/badge/Testar_Online-OnlineGDB-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.onlinegdb.com/edit/rRYp8FU5M)
 
 </details>
 
